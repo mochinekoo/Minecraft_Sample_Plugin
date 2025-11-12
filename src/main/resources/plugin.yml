@@ -1,0 +1,10 @@
+name: Sample_Plugin
+version: '1.0-SNAPSHOT'
+main: mochineko.sample_plugin.Main
+api-version: '1.20'
+
+commands:
+  hello_world:
+    description: コマンドの説明だよ
+    permission: mochinekoo.sample_plugin.hello_world
+    permission-message: このコマンドは使えません
