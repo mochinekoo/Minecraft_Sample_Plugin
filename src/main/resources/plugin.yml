@@ -8,3 +8,7 @@ commands:
     description: コマンドの説明だよ
     permission: mochinekoo.sample_plugin.hello_world
     permission-message: このコマンドは使えません
+  cirlce_teleport:
+    description: コマンドの説明だよ
+    permission: mochinekoo.sample_plugin.hello_world
+    permission-message: このコマンドは使えません
